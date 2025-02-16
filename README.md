@@ -1,1 +1,1 @@
-This Is Project EcoGen Solar App.
+This is for University Final Year Project EcoGen Solar App.
